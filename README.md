@@ -54,7 +54,7 @@ O modelo de dados relacional do sistema é composto por entidades inter-relacion
 
 Um arquivo de protótipo foi criado para ilustrar a interface do usuário do sistema, incluindo telas para criação de contas, listas, flashcards e revisão de flashcards.
 
-![Protótipo 01](images/protótipo 01.png)
+![Protótipo 01](images/protótipo01.png)
 
 **Funcionalidades do Sistema**
 
